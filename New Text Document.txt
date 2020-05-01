@@ -1,0 +1,20 @@
+Chapter-1
+Design and programing the IoT based system
+Introduction to IoT,Raspberry Pi 2/3 board, Implementation using Linux/Android operating system,cloud/ server connectivity
+Interfacing raspberry Pi 2/3 board,Networking of IoT devices,troubleshooting.   
+
+Chapter-2
+Wireless Networking
+Introduction to wireless networking, wireless network architecture: introduction, logical architecture , physical architecture, Future of wireless networking
+
+Chapter-3
+Soil Properties
+Introduction and types of Soils, different soil profiles for agriculture purpose, soil analysis methods to measuresoil fertility, nutrient availability and PH values,crop to be grown soil. 
+improve soil quality.
+Chapter-4
+Sensors
+Introduction to sensors, sensor design, sensors to identify nitrogen pottasium  
+sulphur micro nutrients phosphorus PH values, sensors required 
+
+
+1)chemistry of soil 
